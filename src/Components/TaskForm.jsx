@@ -71,12 +71,20 @@ const SubmitMe=async(e)=>{
       <div className='my-4'>
 
        <label htmlFor="">Enter Priorty</label>
-    <input type="text" name='priority' id='priority' placeholder='enter task title' value={data.priority}  onChange={(e)=>dataHandler(e)} />
+       <select name="priority" id="priority" value={data.priority}  onChange={(e)=>dataHandler(e)}>
+
+        <option value="">Select Priority</option>
+        <option value="High">High</option>
+        <option value="Low">Low</option>
+        <option value="Medium">Medium</option>
+
+       </select>
+   
 </div>
 
 <div className='my-4'>
      <label htmlFor="">Enter Due Date</label>
-    <input type="text" name='dueDate' id='dueDate' placeholder='enter the date' value={data.dueDate}  onChange={(e)=>dataHandler(e)}/>
+    <input type="date" name='dueDate' id='dueDate' placeholder='enter the date' value={data.dueDate}  onChange={(e)=>dataHandler(e)}/>
 </div>
 
   

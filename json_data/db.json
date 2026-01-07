@@ -9,20 +9,20 @@
       "dueDate": "2026-01-20"
     },
     {
-      "taskTitle": "Task",
-      "taskDescription": "Veery GOOd",
+      "taskTitle": "react",
+      "taskDescription": "React Library",
       "taskStatus": "Pending",
-      "priority": "UYUUY",
-      "dueDate": "7-2-2004",
-      "id": 3
+      "priority": "Low",
+      "dueDate": "2026-01-08",
+      "id": 2
     },
     {
-      "taskTitle": "Kshitij",
-      "taskDescription": "Veery GOOd",
-      "taskStatus": "Pending",
-      "priority": "UYUUY",
-      "dueDate": "7-2-2004",
-      "id": 4
+      "taskTitle": "CSS",
+      "taskDescription": "Cascading Style Sheet",
+      "taskStatus": "Complete",
+      "priority": "Low",
+      "dueDate": "2026-01-05",
+      "id": 3
     }
   ]
 }
