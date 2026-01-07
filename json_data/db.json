@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "taskTitle": "Design Dashboard UI",
+      "taskDescription": "Create responsive dashboard layout",
+      "taskStatus": "Pending",
+      "priority": "High",
+      "dueDate": "2026-01-20"
+    },
+    {
+      "taskTitle": "Task",
+      "taskDescription": "Veery GOOd",
+      "taskStatus": "Pending",
+      "priority": "UYUUY",
+      "dueDate": "7-2-2004",
+      "id": 3
+    },
+    {
+      "taskTitle": "Kshitij",
+      "taskDescription": "Veery GOOd",
+      "taskStatus": "Pending",
+      "priority": "UYUUY",
+      "dueDate": "7-2-2004",
+      "id": 4
+    }
+  ]
+}
